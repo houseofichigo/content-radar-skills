@@ -43,7 +43,7 @@ After installation, run `content-radar-setup` first. It uses its bundled profile
 
 ```text
 skills/                 Seven independently discoverable skills
-resources/              Shared template and example profile
+resources/              Shared blank profile template
 dist/                   Seven skill ZIPs plus the suite bundle
 scripts/                Deterministic validation and packaging
 tests/                  Suite layout and distribution checks
